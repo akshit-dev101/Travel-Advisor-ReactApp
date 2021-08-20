@@ -15,6 +15,6 @@ It also provides weather data of the selected loaction
 
 - [Open Weather Map API](https://rapidapi.com/community/api/open-weather-map/)
 
-![Shop-Trends]()
+![Shop-Trends](https://github.com/akshit-dev101/Travel-Advisor-ReactApp/blob/main/public/Travel%20Advisor.png)
 
 ### 🚀 [Live Site](https://travel-advisor-reactapp.netlify.app/)
