@@ -3,7 +3,7 @@
 This is an Travel advisor Website which lets you search and filter Restraunts, Hotels and Attractions 
 ,
 Based upon your current location or Searched location.
-It also provides weather data of the selected loaction
+It also provides weather data of the selected location
 ## Technologies Used
 
 - [React.js](https://reactjs.org/)
